@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label '123'
+      label 'jenkins_node-10.176.139.2'
     }
 
   }
